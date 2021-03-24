@@ -54,6 +54,12 @@ Tambien puede ver el video a travez del siguiente enlace:
 
 Esta app web cuenta con el siguiente link para poder comprobar su funcionalidad, se cuentan con dos link esto porque se manejan dos puertos diferentes para la aplicación.
 
+## CIRCLECI
+
+Esta aplicación cuenta con todas las restriciones de CircleCI.
+
+ [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/camilosaenz/AREP-PARCIAL2)
+
 ## DESARROLO
 
 Este laboratorio fue construido con las siguiente herramientas:
