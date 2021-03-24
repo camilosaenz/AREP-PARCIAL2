@@ -44,7 +44,7 @@ mvn package
 
 A continuación se da el acceso el video de prueba.
 
-Para descargar el video siga el enlace: [video](https://github.com/camilosaenz/AREP-LABORATORIO6/blob/master/video.mp4)
+Para descargar el video siga el enlace: [video](https://github.com/camilosaenz/AREP-PARCIAL2/blob/master/Parcial%20Arep%202.mp4)
 
 Tambien puede ver el video a travez del siguiente enlace:
 
